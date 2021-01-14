@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pre201</string>
+    <string name="Book_search" translatable="false">書籍検索</string>
+    <string name="Library_search">図書館を探す</string>
+</resources>
